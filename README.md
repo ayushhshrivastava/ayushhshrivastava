@@ -235,16 +235,16 @@ Interactive Tableau & Power BI dashboards tracking candidate funnels, retention,
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│  🎓  B.Tech Computer Science (AI & ML)  ·  Amity University    │
-│                                                                 │
-│  📜  Machine Learning Specialization     ·  Stanford University │
-│  📜  CCNA: Switching, Routing & Wireless ·  Cisco               │
-│  📜  Python for Data Science             ·  IBM                 │
-│  📜  Elements of AI                      ·  University of Helsinki│
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│  🎓  B.Tech Computer Science (AI & ML)  ·  Amity University         │
+│                                                                     │
+│  📜  Machine Learning Specialization     ·  Stanford University     │
+│  📜  CCNA: Switching, Routing & Wireless ·  Cisco                   │
+│  📜  Python for Data Science             ·  IBM                     │
+│  📜  Elements of AI                      ·  University of Helsinki  │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
